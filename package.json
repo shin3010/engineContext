@@ -1,6 +1,6 @@
 {
   "name": "com.enginecontext",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "displayName": "EngineContext",
   "description": "Generates a curated CLAUDE.md context file from your Unity project so AI coding agents understand the project without re-explanation. Editor-only, read-only, deterministic. No server, no LLM, no account.",
   "unity": "2022.3",

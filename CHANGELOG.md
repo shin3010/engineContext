@@ -2,7 +2,7 @@
 
 All notable changes to this package will be documented in this file.
 
-## [Unreleased]
+## [0.3.0] - 2026-07-07
 
 ### Changed — v0.3 Wiring-First Differentiation (Patch Spec v0.3, [A]+[B])
 **[A] Formatter reorder + header summary** — no information removed, static reorder only:
