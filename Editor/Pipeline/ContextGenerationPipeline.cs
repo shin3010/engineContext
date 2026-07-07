@@ -33,7 +33,7 @@ namespace EngineContext.Editor.Pipeline
     /// </summary>
     public static class ContextGenerationPipeline
     {
-        public const string ToolVersion = "0.1.0";
+        public const string ToolVersion = "0.3.0";
 
         // F8 대형 프로젝트 임계값 (PLAN.md 제안 기본값 — 문서 미규정 수치)
         private const int LargePrefabCount = 2000;
