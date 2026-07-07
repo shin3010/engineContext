@@ -35,3 +35,6 @@ Scene hierarchy & components (existing types only — prevents AI hallucinating 
 ## Roadmap
 
 v0.2+ will introduce an intermediate **Context Model** layer between the snapshot (IR) and formatters, enabling additional output formats (MCP Resource, `.cursorrules`, `AGENTS.md`). See the TODO in `Editor/Formatting/ClaudeMarkdownFormatter.cs`.
+
+## engineContext landing page
+https://shin3010.github.io/engineContext-website/
