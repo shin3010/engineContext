@@ -8,7 +8,7 @@ EngineContext scans your open Unity project (read-only), builds a vendor-neutral
 
 Add the package to your Unity project (2022.3 LTS ~ Unity 6):
 
-- **git URL**: `Window > Package Manager > + > Add package from git URL...`
+- **git URL**: `Window > Package Manager > + > Add package from git URL : https://github.com/shin3010/engineContext.git`
 - **local**: `Window > Package Manager > + > Add package from disk...` → select `package.json`
 
 Installation succeeded when the menu item appears: `Tools > EngineContext > Generate Context`.
